@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\PROG\App\DLL\Revit2022API324.dll"</Assembly>
+		<AddInId>DFCC0DE6-3B67-48DF-8415-EADF3C78D499</AddInId>
+		<FullClassName>Revit2022API324.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Подсчет стен по первому и второму этажам</Text>
+	</AddIn>
+</RevitAddIns>
+
+

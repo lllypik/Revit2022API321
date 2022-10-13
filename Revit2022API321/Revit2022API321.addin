@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\PROG\App\DLL\Revit2022API321.dll"</Assembly>
+		<AddInId>AA21164D-C981-4746-8373-0F1F481814D3</AddInId>
+		<FullClassName>Revit2022API321.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Подсчет воздуховодов</Text>
+	</AddIn>
+</RevitAddIns>
+

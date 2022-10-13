@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\PROG\App\DLL\Revit2022API322.dll"</Assembly>
+		<AddInId>365D372A-ED86-46BF-91CA-CF983D207D92</AddInId>
+		<FullClassName>Revit2022API322.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Подсчет труб на активном виде</Text>
+	</AddIn>
+</RevitAddIns>
+
